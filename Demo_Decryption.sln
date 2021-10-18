@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Decryption", "Demo_Decryption.csproj", "{18C52D7B-4A40-4392-BB51-FF593E377888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18C52D7B-4A40-4392-BB51-FF593E377888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C52D7B-4A40-4392-BB51-FF593E377888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C52D7B-4A40-4392-BB51-FF593E377888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C52D7B-4A40-4392-BB51-FF593E377888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E766C3E2-76F5-41BF-AAB7-E7FE3B153D59}
+	EndGlobalSection
+EndGlobal
